@@ -1,5 +1,8 @@
 _repo: The-Bodleian-Library-at-Oxford_70470
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70470-h/images/cover.jpg
 creator:
   author:
     agent_name: Madan, Falconer
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48478
     wikipedia: https://en.wikipedia.org/wiki/Falconer_Madan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70470#The-Bodleian-Library-at-Oxford
 gutenberg_issued: '2023-04-05'
 identifiers:
   gutenberg: '70470'
